@@ -1,0 +1,31 @@
+# Node modules directory that contains all npm packages
+/node_modules
+app/Helpers/Rides/tagxi.sql
+
+# Hot module replacement file created during development
+/public/hot
+
+# Symlink for public storage, used for storing uploaded files
+/public/storage
+/public/uploads
+/public
+/storage/app/public
+
+# SSL key files for local development
+/storage/*.key
+
+# Vendor directory containing all Composer dependencies
+/vendor
+storage/app/public/uploadwebfrontfiles.zip
+
+# Vite cache
+.Vite
+
+# Environment configuration files
+.env
+
+# Composer's lock file
+composer.lock
+
+# Package's lock file
+package-lock.json
